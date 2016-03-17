@@ -1,5 +1,7 @@
 # Email
 
+![screenshot](https://cdn.pbrd.co/images/8fn5I3u.png)
+
 Created by rubenwardy.
 
 License: WTFPL.
